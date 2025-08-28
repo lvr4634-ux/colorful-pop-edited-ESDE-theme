@@ -29,15 +29,16 @@
 	<variant name="list-video">
 		<view name="gamelist">
 			<datetime name="game-release-date">
-				<pos>0.986979165 0.0725</pos>
+				<pos>0.465 0.3</pos>
 			</datetime>
 			<rating name="rating">
-				<pos>0.986979165 0.5</pos>
-				<size>${ratingstarSize2} 0</size>
+				<pos>0.920 0.863</pos>
+				<size>0.045 0.045</size>
 			</rating>
 			<text name="game-developer">
-				<pos>0.986979165 0.775</pos>
+				<pos>0.375 0.675</pos>
 				<size>0.225 0.05</size>
+				<color>${backgroundColor}</color>
 			</text>
 		</view>
 	</variant>
