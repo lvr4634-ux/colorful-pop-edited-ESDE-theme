@@ -657,7 +657,7 @@ license:       creative commons CC-BY-NC-SA
 			<size>1 1</size>
 			<path>./_inc/images/backgroundbar.png</path>
 			<tile>false</tile>
-			<zIndex>7</zIndex>
+			<zIndex>3</zIndex>
 			</image>
             
             <image name="game-background-bar2">
@@ -863,5 +863,6 @@ license:       creative commons CC-BY-NC-SA
 			<path>./_inc/sounds/launch.wav</path>
 		</sound>
 	</view>
+
 
 </theme>
