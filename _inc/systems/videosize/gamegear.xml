@@ -1,0 +1,88 @@
+<theme>						
+	<variant name="list-video">					
+		<aspectRatio name="1:1">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6656666666666671 0.456444444444444</pos>	
+					<size>0.172111111111111 0.122666666666667</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="5:4">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6656666666666671 0.445680555555556</pos>	
+					<size>0.172111111111111 0.153083333333333</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="4:3">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6656666666666671 0.442092592592593</pos>	
+					<size>0.172111111111111 0.163222222222222</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="3:2">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6656666666666671 0.434916666666667</pos>	
+					<size>0.172111111111111 0.1835</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:10">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6657100694444441 0.434199074074074</pos>	
+					<size>0.163199074074074 0.185527777777778</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6657890625 0.434199074074074</pos>	
+					<size>0.146979166666667 0.185527777777778</size>	
+				</video>	
+				<!-- Add in game cart -->
+				<!-- <image name="game-cart">       
+					<origin>0.5 0.5</origin>
+					<pos>0.6705 0.114</pos>	
+					<maxSize>0.1425 0.3</maxSize>
+					<imageType>physicalmedia</imageType>
+					<rotation>4.4</rotation>
+					<interpolation>linear</interpolation>
+					<brightness>0.2</brightness>
+					<zIndex>5</zIndex>
+				</image>
+				<image name="game-cart-mask">
+					<origin>0 0</origin>
+					<pos>0 0</pos>	
+					<size>1 0.045</size>
+					<path>./../../../_inc/images/space.png</path>
+					<tile>true</tile>
+					<color>${backgroundColor}</color>
+					<zIndex>7</zIndex>
+				</image> -->
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="19.5:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665916666666667 0.434199074074074</pos>	
+					<size>0.120777777777778 0.185527777777778</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="21:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6659583333333331 0.434199074074074</pos>	
+					<size>0.112222222222222 0.185527777777778</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+   </variant>						
+</theme>

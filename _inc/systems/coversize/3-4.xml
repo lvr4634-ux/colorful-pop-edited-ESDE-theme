@@ -1,0 +1,92 @@
+<theme>						
+	<variant name="carousel, carousel-video">					
+		<aspectRatio name="1:1">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.200000000025 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.05000000000625</selectedItemMargins>	
+					<maxItemCount>4.67532467477821</maxItemCount>	
+					<horizontalOffset>0.05000000001875</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="5:4">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.16000000002 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.040000000005</selectedItemMargins>	
+					<maxItemCount>5.84415584347276</maxItemCount>	
+					<horizontalOffset>0.020000000015</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="4:3">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.15000000001875 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.0375000000046875</selectedItemMargins>	
+					<maxItemCount>6.23376623303761</maxItemCount>	
+					<horizontalOffset>0.0125000000140625</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="3:2">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.13333333335 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.0333333333375</selectedItemMargins>	
+					<maxItemCount>7.01298701216731</maxItemCount>	
+					<horizontalOffset>1.25000010342546E-11</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:10">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.125000000015625 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.0312500000039063</selectedItemMargins>	
+					<maxItemCount>7.48051947964513</maxItemCount>	
+					<horizontalOffset>-0.00624999998828125</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:9">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.112500000014063 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.0281250000035156</selectedItemMargins>	
+					<maxItemCount>8.31168831071682</maxItemCount>	
+					<horizontalOffset>-0.0156249999894531</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="19.5:9">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.0923076923192308 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.0230769230798077</selectedItemMargins>	
+					<maxItemCount>10.1298701286861</maxItemCount>	
+					<horizontalOffset>-0.0307692307605769</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="21:9">				
+			<view name="gamelist">			
+				<carousel name="game-carousel">		
+					<itemSize>0.085714285725 0.2666666667</itemSize>	
+					<selectedItemMargins>0.5 0.02142857143125</selectedItemMargins>	
+					<maxItemCount>10.9090909078158</maxItemCount>	
+					<horizontalOffset>-0.03571428570625</horizontalOffset>	
+					<itemScale>1.5</itemScale>	
+				</carousel>		
+			</view>			
+		</aspectRatio>				
+   </variant>						
+</theme>						

@@ -1,0 +1,68 @@
+<theme>						
+	<variant name="list-video">					
+		<aspectRatio name="1:1">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665333333333333 0.421666666666667</pos>	
+					<size>0.16 0.111111111111111</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="5:4">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665333333333333 0.402083333333333</pos>	
+					<size>0.16 0.138888888888889</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="4:3">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665333333333333 0.395555555555556</pos>	
+					<size>0.16 0.148148148148148</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="3:2">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665333333333333 0.3825</pos>	
+					<size>0.16 0.166666666666667</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:10">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665420138888889 0.381194444444444</pos>	
+					<size>0.151666666666667 0.168518518518519</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665578125 0.381194444444444</pos>	
+					<size>0.1365 0.168518518518519</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="19.5:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665833333333333 0.381194444444444</pos>	
+					<size>0.112 0.168518518518519</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="21:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.665916666666667 0.381194444444444</pos>	
+					<size>0.104 0.168518518518519</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+	</variant>					
+</theme>						

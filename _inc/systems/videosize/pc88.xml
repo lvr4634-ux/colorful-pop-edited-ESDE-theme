@@ -1,0 +1,76 @@
+<theme>						
+	<variant name="list-video">					
+		<aspectRatio name="1:1">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6137222222222221 0.420611111111111</pos>	
+					<size>0.172111111111111 0.135444444444444</size>	
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="5:4">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6137222222222221 0.400888888888889</pos>	
+					<size>0.172111111111111 0.16905555555555601</size>	
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="4:3">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6137222222222221 0.394314814814815</pos>	
+					<size>0.172111111111111 0.180259259259259</size>	
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="3:2">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6137222222222221 0.381166666666667</pos>	
+					<size>0.172111111111111 0.202666666666667</size>	
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:10">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6164710648148151 0.379851851851852</pos>	
+					<size>0.163199074074074 0.204907407407407</size>	
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6214739583333331 0.379851851851852</pos>	
+					<size>0.146979166666667 0.204907407407407</size>
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="19.5:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6295555555555561 0.379851851851852</pos>	
+					<size>0.120777777777778 0.204907407407407</size>
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="21:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<pos>0.6321944444444441 0.379851851851852</pos>	
+					<size>0.112222222222222 0.204907407407407</size>	
+					<rotation>-1.5</rotation>
+				</video>		
+			</view>			
+		</aspectRatio>				
+	</variant>					
+</theme>

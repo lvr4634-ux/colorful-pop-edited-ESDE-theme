@@ -1,0 +1,282 @@
+<theme>						
+	<variant name="list-video">	
+		
+		<view name="gamelist">			
+			<video name="game-system-video">		
+				<visible>false</visible>
+			</video>
+			<video name="game-system-video2, game-system-video4, game-system-video5, game-system-video6, game-system-video7, game-system-video10">
+				<origin>0.5 0.5</origin>
+				<imageType>titlescreen, screenshot</imageType>
+				<zIndex>4</zIndex>
+			</video>
+			<video name="game-system-video2">
+				<rotation>92</rotation>
+			</video>
+			<video name="game-system-video4">
+				<rotation>-1</rotation>
+			</video>
+			<video name="game-system-video5">
+				<rotation>-3</rotation>
+			</video>
+			<video name="game-system-video6">
+				<rotation>0</rotation>
+			</video>
+			<video name="game-system-video7">
+				<rotation>-2</rotation>
+			</video>
+			<video name="game-system-video10">
+				<rotation>-0.5</rotation>
+			</video>
+		</view>				
+			
+		<aspectRatio name="1:1">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.630277777777778 0.363958333333333</pos>	
+					<size>0.0588888888888889 0.0448055555555556</size>		
+				</video>
+				<video name="game-system-video4">
+					<pos>0.523111111111111 0.446111111111111</pos>	
+					<size>0.0572222222222222 0.0438888888888889</size>	
+				</video>
+				<video name="game-system-video5">
+					<pos>0.676305555555556 0.495</pos>	
+					<size>0.0802777777777778 0.0627777777777778</size>		
+				</video>
+				<video name="game-system-video6">
+					<pos>0.820055555555556 0.487361111111111</pos>	
+					<size>0.0544444444444444 0.0447222222222222</size>
+				</video>
+				<video name="game-system-video7">
+					<pos>0.547 0.564027777777778</pos>	
+					<size>0.0783333333333333 0.0602777777777778</size>		
+				</video>
+				<video name="game-system-video10">
+					<pos>0.711791666666667 0.631805555555556</pos>	
+					<size>0.0820833333333333 0.0608333333333333</size>		
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="5:4">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.630277777777778 0.329947916666667</pos>	
+					<size>0.0588888888888889 0.0552569444444444</size>		
+				</video>
+				<video name="game-system-video4">
+					<pos>0.523111111111111 0.432638888888889</pos>	
+					<size>0.0572222222222222 0.0548611111111111</size>
+				</video>
+				<video name="game-system-video5">
+					<pos>0.676305555555556 0.49375</pos>	
+					<size>0.0802777777777778 0.0784722222222222</size>		
+				</video>
+				<video name="game-system-video6">
+					<pos>0.820055555555556 0.484201388888889</pos>	
+					<size>0.0544444444444444 0.0559027777777778</size>
+				</video>
+				<video name="game-system-video7">
+					<pos>0.547 0.580034722222222</pos>	
+					<size>0.0783333333333333 0.0753472222222222</size>
+				</video>
+				<video name="game-system-video10">
+					<pos>0.711791666666667 0.664756944444444</pos>	
+					<size>0.0820833333333333 0.0760416666666667</size>		
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="4:3">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.629777777777778 0.318611111111111</pos>	
+					<size>0.0588888888888889 0.0587407407407407</size>		
+				</video>
+				<video name="game-system-video4">
+					<pos>0.523611111111111 0.428148148148148</pos>	
+					<size>0.0572222222222222 0.0585185185185185</size>
+				</video>
+				<video name="game-system-video5">
+					<pos>0.676305555555556 0.493333333333333</pos>	
+					<size>0.0802777777777778 0.0837037037037037</size>	
+				</video>
+				<video name="game-system-video6">
+					<pos>0.820055555555556 0.483148148148148</pos>	
+					<size>0.0544444444444444 0.0596296296296296</size>
+				</video>
+				<video name="game-system-video7">
+					<pos>0.547 0.58537037037037</pos>	
+					<size>0.0783333333333333 0.0803703703703704</size>			
+				</video>
+				<video name="game-system-video10">
+					<pos>0.711791666666667 0.675740740740741</pos>	
+					<size>0.0820833333333333 0.0811111111111111</size>		
+				</video>		
+		</view>			
+		</aspectRatio>				
+		<aspectRatio name="3:2">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.630277777777778 0.2959375</pos>	
+					<size>0.0588888888888889 0.0657083333333333</size>		
+				</video>
+				<video name="game-system-video4">
+					<pos>0.523111111111111 0.419166666666667</pos>	
+					<size>0.0572222222222222 0.0658333333333333</size>
+				</video>
+				<video name="game-system-video5">
+					<pos>0.676305555555556 0.4925</pos>	
+					<size>0.0802777777777778 0.0941666666666667</size>		
+				</video>
+				<video name="game-system-video6">
+					<pos>0.820055555555556 0.481041666666667</pos>	
+					<size>0.0544444444444444 0.0670833333333333</size>	
+				</video>
+				<video name="game-system-video7">
+					<pos>0.547 0.596041666666667</pos>	
+					<size>0.0783333333333333 0.0904166666666667</size>		
+				</video>
+				<video name="game-system-video10">
+					<pos>0.711791666666667 0.697708333333333</pos>	
+					<size>0.0820833333333333 0.09125</size>		
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:10">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.632216435185185 0.293670138888889</pos>	
+					<size>0.0558217592592593 0.0664050925925926</size>		
+				</video>
+				<video name="game-system-video4">
+					<pos>0.530605324074074 0.418268518518518</pos>	
+					<size>0.0542418981481482 0.0665648148148148</size>	
+				</video>
+				<video name="game-system-video5">
+					<pos>0.675820891203704 0.492416666666667</pos>	
+					<size>0.0760966435185185 0.095212962962963</size>	
+				</video>
+				<video name="game-system-video6">
+					<pos>0.812083912037037 0.480831018518518</pos>	
+					<size>0.0516087962962963 0.0678287037037037</size>	
+				</video>
+				<video name="game-system-video7">
+					<pos>0.55325 0.597108796296296</pos>	
+					<size>0.0742534722222222 0.0914212962962963</size>	
+				</video>
+				<video name="game-system-video10">
+					<pos>0.709458767361111 0.699905092592593</pos>	
+					<size>0.0778081597222222 0.0922638888888889</size>		
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="16:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.635744791666667 0.293670138888889</pos>	
+					<size>0.0502395833333333 0.0664050925925926</size>
+				</video>
+				<video name="game-system-video4">
+					<pos>0.544244791666667 0.418268518518518</pos>	
+					<size>0.0488177083333333 0.0665648148148148</size>	
+				</video>
+				<video name="game-system-video5">
+					<pos>0.674938802083333 0.492416666666667</pos>	
+					<size>0.0684869791666667 0.095212962962963</size>	
+				</video>
+				<video name="game-system-video6">
+					<pos>0.797575520833333 0.480831018518518</pos>	
+					<size>0.0464479166666667 0.0678287037037037</size>	
+				</video>
+				<video name="game-system-video7">
+					<pos>0.564625 0.597108796296296</pos>	
+					<size>0.066828125 0.0914212962962963</size>		
+				</video>
+				<video name="game-system-video10">
+					<pos>0.705212890625 0.699905092592593</pos>	
+					<size>0.07002734375 0.0922638888888889</size>
+				</video>
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="19.5:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.640444444444445 0.292570138888889</pos>	
+					<size>0.0412222222222222 0.0664050925925926</size>			
+				</video>
+				<video name="game-system-video4">
+					<pos>0.56327777777778 0.418268518518518</pos>	
+					<size>0.0410555555555556 0.0665648148148148</size>		
+				</video>
+				<video name="game-system-video5">
+					<pos>0.673513888888889 0.492416666666667</pos>	
+					<size>0.0561944444444444 0.095212962962963</size>	
+				</video>
+				<video name="game-system-video6">
+					<pos>0.776138888888889 0.480831018518518</pos>	
+					<size>0.0381111111111111 0.0678287037037037</size>	
+				</video>
+				<video name="game-system-video7">
+					<pos>0.58 0.597108796296296</pos>	
+					<size>0.056333333333333 0.0914212962962963</size>		
+				</video>
+				<video name="game-system-video10">
+					<pos>0.699354166666667 0.699905092592593</pos>	
+					<size>0.0574583333333333 0.0922638888888889</size>		
+				</video>		
+			</view>			
+		</aspectRatio>				
+		<aspectRatio name="21:9">				
+			<view name="gamelist">			
+				<video name="game-system-video">		
+					<visible>false</visible>
+				</video>
+				<video name="game-system-video2">
+					<pos>0.643305555555556 0.293670138888889</pos>	
+					<size>0.0382777777777778 0.0664050925925926</size>		
+				</video>
+				<video name="game-system-video4">
+					<pos>0.573472222222222 0.418268518518518</pos>	
+					<size>0.0371944444444444 0.0665648148148148</size>	
+				</video>
+				<video name="game-system-video5">
+					<pos>0.673048611111111 0.492416666666667</pos>	
+					<size>0.0521805555555556 0.095212962962963</size>		
+				</video>
+				<video name="game-system-video6">
+					<pos>0.766486111111111 0.480831018518518</pos>	
+					<size>0.0353888888888889 0.0678287037037037</size>		
+				</video>
+				<video name="game-system-video7">
+					<pos>0.589 0.597108796296296</pos>	
+					<size>0.0509166666666667 0.0914212962962963</size>		
+				</video>
+				<video name="game-system-video10">
+					<pos>0.696114583333333 0.699905092592593</pos>	
+					<size>0.0533541666666667 0.0922638888888889</size>	
+				</video>		
+			</view>			
+		</aspectRatio>				
+	</variant>					
+</theme>						
