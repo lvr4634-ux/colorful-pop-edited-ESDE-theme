@@ -1,0 +1,114 @@
+<themeCapabilities>
+   
+	<themeName>Colorful (Pop!)</themeName>
+
+	<!--
+	///
+	Aspect Ratios
+	///
+	-->
+	<aspectRatio>1:1</aspectRatio>
+	<aspectRatio>5:4</aspectRatio>
+	<aspectRatio>4:3</aspectRatio>
+	<aspectRatio>3:2</aspectRatio>
+	<aspectRatio>16:10</aspectRatio>
+	<aspectRatio>16:9</aspectRatio>
+	<aspectRatio>19.5:9</aspectRatio>
+	<aspectRatio>21:9</aspectRatio>
+	
+	<!--
+	///
+	Font Sizes
+	///
+	-->
+	<fontSize>medium</fontSize>
+	<fontSize>small</fontSize>
+	<fontSize>large</fontSize> 
+	<fontSize>x-large</fontSize> 
+	
+	<!--
+	///
+	Transitions
+	///
+	-->
+	<transitions name="transitions">
+		<label>transitions</label>
+		<selectable>false</selectable>
+		<systemToSystem>instant</systemToSystem>
+		<systemToGamelist>slide</systemToGamelist>
+		<gamelistToGamelist>slide</gamelistToGamelist>
+		<gamelistToSystem>slide</gamelistToSystem>
+		<startupToSystem>fade</startupToSystem>
+		<startupToGamelist>fade</startupToGamelist>
+	</transitions>
+	<suppressTransitionProfiles>
+		<entry>builtin-instant</entry>
+		<entry>builtin-slide</entry>
+		<entry>builtin-fade</entry>
+	</suppressTransitionProfiles>
+
+	<!--
+	///
+	Color Schemes
+	///
+	-->
+	<colorScheme name="light">
+		<label>[Pop Images] (Colorful) Light</label>
+	</colorScheme>
+	<colorScheme name="dark">
+		<label>[Pop Images] (Colorful) Dark</label>
+	</colorScheme>
+	<colorScheme name="black">
+		<label>[Pop Images] (Colorful) Black</label>
+	</colorScheme>
+	<colorScheme name="light-monochrome">
+		<label>[Pop Images] (Mono) Light</label>
+	</colorScheme>
+	<colorScheme name="dark-monochrome">
+		<label>[Pop Images] (Mono) Dark</label>
+	</colorScheme>
+	<colorScheme name="black-monochrome">
+		<label>[Pop Images] (Mono) Black</label>
+	</colorScheme>
+	<colorScheme name="light-colorful">
+		<label>[Colorful Images] (Colorful) Light</label>
+	</colorScheme>
+	<colorScheme name="dark-colorful">
+		<label>[Colorful Images] (Colorful) Dark</label>
+	</colorScheme>
+	<colorScheme name="black-colorful">
+		<label>[Colorful Images] (Colorful) Black</label>
+	</colorScheme>
+	<colorScheme name="light-monochrome-colorful">
+		<label>[Colorful Images] (Mono) Light</label>
+	</colorScheme>
+	<colorScheme name="dark-monochrome-colorful">
+		<label>[Colorful Images] (Mono) Dark</label>
+	</colorScheme>
+	<colorScheme name="black-monochrome-colorful">
+		<label>[Colorful Images] (Mono) Black</label>
+	</colorScheme>
+	
+	<!--
+	///
+	Variants
+	///
+	-->
+	<variant name="list-video">
+		<label>List (video)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="list">
+		<label>List (detailed)</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="carousel">
+		<label>Carousel</label>
+		<selectable>true</selectable>
+	</variant>
+	<variant name="carousel-video">
+		<label>Carousel (video)</label>
+		<selectable>true</selectable>
+	</variant>
+	
+</themeCapabilities>

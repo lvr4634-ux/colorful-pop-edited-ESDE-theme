@@ -1,0 +1,50 @@
+<!-- 
+21:9 aspect ratio
+-->
+<theme>
+	<!--
+	///
+	System View
+	///
+	-->
+	<view name="system">
+		<image name="background-color">
+			<pos>0.3592 0.5</pos>			
+		</image>
+	</view>
+	<!--
+	///
+	Gamelist View: List
+	///
+	-->
+	<variant name="list">
+		<view name="gamelist">
+			<text name="game-players">
+				<pos>0.915 0.3157407</pos>
+			</text>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Video
+	///
+	-->
+	<variant name="list-video">
+		<view name="gamelist">
+			<image name="background-color">
+				<pos>0.3592 0.5</pos>			
+			</image>
+			<datetime name="game-release-date">
+				<pos>0.986979165 0.0775</pos>
+			</datetime>
+			<rating name="rating">
+				<pos>0.986979165 0.5</pos>
+			</rating>
+			<text name="game-developer">
+				<pos>0.986979165 0.8</pos>
+				<size>0.1375 0.05</size>
+			</text>
+		</view>
+	</variant>
+</theme>

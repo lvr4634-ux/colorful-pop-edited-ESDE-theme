@@ -1,0 +1,79 @@
+<!-- 
+3:2 aspect ratio
+-->
+<theme>
+	<view name="system">
+		<image name="system-background">
+			<path>./_inc/images/background_3-2.png</path>
+		</image>
+		<image name="background-color">
+			<size>0.61458333 0.90</size>			
+		</image>
+		<text name="systemName, autoCollectionName, customCollectionName">
+			<fontSize>${fontSizeH2}</fontSize>
+		</text>
+		<text name="system-description">
+			<pos>0.0260416 0.4725</pos>	
+			<size>0.3070624 0.22</size>
+		</text>
+	</view>
+	
+	<!--
+	///
+	Gamelist View: List
+	///
+	-->
+	<variant name="list">
+		<view name="gamelist">
+			<text name="game-players">
+				<pos>0.9425 0.3157407</pos>
+			</text>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Carousel
+	///
+	-->
+	<variant name="carousel, carousel-video">
+		<view name="gamelist">
+			<datetime name="game-release-date">
+				<pos>0.065 0.835</pos>
+			</datetime>
+			<image name="game-players-icon">
+				<pos>0.155  0.835</pos>
+			</image>
+			<text name="game-players-label">
+				<pos>0.193958334 0.835</pos>
+			</text>
+		</view>
+	</variant>
+	
+	<!--
+	///
+	Gamelist View: Video
+	///
+	-->
+	<variant name="list-video">
+		<view name="gamelist">
+			<image name="system-background">
+				<path>./_inc/images/background3_3-2.png</path>
+			</image>
+			<image name="background-color">
+				<size>0.61458333 0.90</size>			
+			</image>
+			<datetime name="game-release-date">
+				<pos>0.986979165 0.075</pos>
+			</datetime>
+			<rating name="rating">
+				<pos>0.986979165 0.5</pos>
+				<size>${ratingstarSize2} 0</size>
+			</rating>
+			<text name="game-developer">
+				<pos>0.986979165 0.8</pos>
+				<size>0.225 0.05</size>
+			</text>
+		</view>
+	</variant>
+</theme>
