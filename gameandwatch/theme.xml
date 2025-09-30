@@ -1,0 +1,17 @@
+
+<theme>
+ <include>./../theme.xml</include>
+	<!--
+	///
+	Gamelist View: Video
+	///
+	-->
+	<view name="gamelist">
+
+<image name="physicalmedia">
+  <visible>false</visible>
+</image>
+
+
+</view>
+</theme>

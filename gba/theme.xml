@@ -1,0 +1,23 @@
+
+<theme>
+ <include>./../theme.xml</include>
+	<!--
+	///
+	Gamelist View: Video
+	///
+	-->
+	<view name="gamelist">
+
+<image name="physicalmedia">
+  <origin>0.5 1</origin>
+  <pos>0.67 0.27</pos><!-- 763 320 -->
+  <maxSize>0.200 0.375</maxSize><!-- 150 60 -->
+  <imageType>physicalmedia</imageType>
+  <rotation>6</rotation>
+  <zIndex>26</zIndex>
+  <visible>true</visible>
+</image>
+
+
+</view>
+</theme>

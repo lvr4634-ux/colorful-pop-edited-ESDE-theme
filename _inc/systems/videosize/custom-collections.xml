@@ -9,6 +9,7 @@
 				<origin>0.5 0.5</origin>
 				<imageType>titlescreen, screenshot</imageType>
 				<zIndex>4</zIndex>
+				<visible>false</visible>
 			</video>
 			<video name="game-system-video2">
 				<rotation>92</rotation>

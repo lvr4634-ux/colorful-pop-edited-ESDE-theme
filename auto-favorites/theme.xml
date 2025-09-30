@@ -1,0 +1,133 @@
+
+<theme>
+ <include>./../theme.xml</include>
+	<!--
+	///
+	Gamelist View: Video
+	///
+	-->
+	<view name="gamelist">
+	<image name="background-color">
+			<origin>0 0.5</origin> 
+			<pos>0.359375 0.5</pos>			
+			<size>0.61458333 0.91</size>			
+			<path>${spacerImage}</path>
+			<tile>true</tile>
+			<color>ff0000</color>
+			<zIndex>2</zIndex>
+		</image>
+
+<image name="physicalmedia">
+  <origin>0.5 1</origin>
+  <pos>0.50 0.35</pos><!-- 763 320 -->
+  <maxSize>0.17584994 0.300</maxSize><!-- 150 60 -->
+  <imageType>physicalmedia</imageType>
+  <rotation>307</rotation>
+  <zIndex>3.5</zIndex>
+  <visible>false</visible>
+</image>
+
+<image name="game-system-image">	
+ <path>./_inc/systems/images/${system.theme}.webp</path>
+ <default>./_inc/systems/images/_default.webp</default>
+ <visible>false</visible>				
+</image>		
+
+<image name="game-system-image-overlay">	
+ <path>./_inc/systems/overlay/${system.theme}.webp</path>
+ <default>./_inc/systems/overlay/_default.webp</default>
+ <visible>false</visible>					
+</image>			
+
+<image name="game-background-bar">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./_inc/images/backgroundbar.png</path>
+			<tile>false</tile>
+			<visible>false</visible>
+			<zIndex>3</zIndex>
+			</image>
+
+<image name="game-background-bar2">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./_inc/images/backgroundbar2.png</path>
+			<tile>false</tile>
+			<visible>false</visible>
+			<zIndex>3</zIndex>
+			</image>
+
+			<image name="game-background-bar3">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>./_inc/images/backgroundbar3.png</path>
+			<tile>false</tile>
+			<visible>false</visible>
+			<color>${backgroundColor}</color>
+			<zIndex>3</zIndex>
+			</image>
+
+			<datetime name="game-release-date-year">
+				<origin>0.5 0</origin>
+				<pos>0.475 0.23</pos>
+				<size>0.30 0.10</size>
+				<metadata>releasedate</metadata>
+				<defaultValue>Not Set</defaultValue>
+				<fontPath>${fontBold}</fontPath>
+				<fontSize>0.083</fontSize>
+				<lineSpacing>1</lineSpacing>
+				<visible>false</visible>
+				<defaultValue>:space:</defaultValue>
+				<rotation>310</rotation>
+				<format>%Y</format>
+				<horizontalAlignment>left</horizontalAlignment>
+                <color>${backgroundColor}</color>
+			    <zIndex>7</zIndex>
+
+			</datetime>
+
+          <datetime name="game-release-date-month-day">
+				<origin>0 0</origin>
+				<pos>0.34 0.29</pos>
+				<size>0.15 0.040</size>
+				<metadata>releasedate</metadata>
+				<defaultValue>Not Set</defaultValue>
+				<fontPath>${fontBold}</fontPath>
+				<fontSize>0.040</fontSize>
+				<lineSpacing>0</lineSpacing>
+				<visible>false</visible>
+				<defaultValue>:space:</defaultValue>
+				<rotation>310</rotation>
+				<format>%d %m</format>
+				<horizontalAlignment>left</horizontalAlignment>
+                <color>${backgroundColor}</color>
+			    <zIndex>7</zIndex>
+
+			</datetime>
+			
+			<rating name="rating">
+			<visible>false</visible>	
+			</rating>
+
+			<text name="game-developer">
+			<visible>false</visible>	
+			</text>
+
+			<text name="game-genre">
+			<visible>false</visible>		
+			</text>
+
+			<image name="game-players-icon">
+			<visible>false</visible>		
+			</image>
+
+			<text name="game-players-label">
+			<visible>false</visible>		
+			</text>
+
+
+</view>
+</theme>
